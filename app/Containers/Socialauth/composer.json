@@ -1,0 +1,7 @@
+{
+  "name": "apiato/social-auth",
+  "description": "apiato Container.",
+  "require": {
+    "laravel/socialite": "^3.0"
+  }
+}
